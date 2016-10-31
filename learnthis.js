@@ -14,18 +14,18 @@ var topics = [
     what: 'What the heck is Server Gate?'
   },
   {
-    title: 'Tax evasion',
-    search: 'Trump tax policy',
-    what: 'What the heck is Tax evasion?'
+    title: 'Tax Avoidance',
+    search: 'Trump\'s tax avoidance',
+    what: 'What the heck is Tax avoidance?'
   },
   {
     title: 'Roe vs Wade',
     search: 'Roe vs Wade',
-    what: 'What the heck is Rode vs Wade?'
+    what: 'What the heck is Roe vs Wade?'
   },
   {
     title: 'Nasty Woman',
-    search: 'What is a Nasty Woman',
+    search: 'Trump\'s nasty woman comment',
     what: 'What the heck is a nasty woman?'
   },
   {
@@ -36,7 +36,7 @@ var topics = [
   {
     title: 'Clinton Foundation',
     search: 'Wikileak Clinton Foundation',
-    what: 'What the heck is all this??'
+    what: 'What the heck is Clinton\'s Foundation?'
   },
   {
     title: "Trump's Wall",
@@ -80,27 +80,27 @@ var topics = [
   },
   {
   title: 'Second Amendment',
-  search: 'Hillary Clinton\'s posistion second amendment',
+  search: 'Hillary Clinton\'s position second amendment',
   what: 'What the heck does Hillary think about this?'
   },
   {
   title: 'BIG GUNS',
-  search: 'Trump\'s posistion second amendment',
+  search: 'Trump\'s position second amendment',
   what: 'What the heck does Trump think about this?'
   },
   {
   title: 'Gay marriage',
-  search: 'gay marriage in US presidential election',
-  what: 'What the heck they all about?'
+  search: 'gay marriage policy US presidential election',
+  what: 'What the heck are equal rights?'
   },
   {
     title: 'Bad Hombres',
-    search: 'Bad hombres trump',
+    search: 'Bad hombres Trump',
     what: 'What the heck is a bad hombre?'
   },
   {
-  title: 'Putin',
-  search: 'Trump and putin presidential debate',
+  title: 'Vladimir Putin',
+  search: 'Trump and Putin presidential debate',
   what: 'What the heck is Putin up to?'
   }
 ]
